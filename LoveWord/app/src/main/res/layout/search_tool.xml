@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/colorBack">
+    <RelativeLayout
+        android:id="@+id/search_tool"
+        android:layout_centerInParent="true"
+        android:background="@color/colorAccent"
+        android:layout_width="300dp"
+        android:layout_height="40dp">
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/back"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/search"/>
+        <TextView
+            android:layout_marginLeft="70dp"
+            android:text="查询英文或者中文"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:id="@+id/tool_title"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+</RelativeLayout>

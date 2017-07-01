@@ -1,0 +1,16 @@
+<resources>
+    <string name="about_us">关于我们</string>
+    <string name="my_study">我的学习历程</string>
+    <string name="second_in">请不要重复添加哦</string>
+    <string name="success_s">收藏成功</string>
+    <string name="net_fail"></string>
+    <string name="wrong_in">请检查输入内容是否正确</string>
+    <string name="no_net">请检查网络设置</string>
+    <string name="empty">请输入内容</string>
+    <string name="app_name">LoveWord</string>
+    <string name="my_word">我收藏的单词</string>
+    <string name="study">学习</string>
+    <string name="exit">再次点击退出</string>
+    <string name="wrong">我的错词库</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
